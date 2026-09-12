@@ -1,0 +1,11 @@
+node_modules/
+.claude/
+tools/**/venv/
+tools/**/.model-cache/
+tools/download-video/cookies.txt
+tools/download-video/portable-node/
+tools/download-video/pot-provider/server/node_modules/
+storage/uploads/*
+storage/outputs/*
+!storage/uploads/.gitkeep
+!storage/outputs/.gitkeep
